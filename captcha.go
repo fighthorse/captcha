@@ -52,7 +52,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/LyricTian/captcha/store"
+	"github.com/fighthorse/captcha/store"
 )
 
 const (

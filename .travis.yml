@@ -1,6 +1,6 @@
 language: go
 sudo: false
-go_import_path: github.com/LyricTian/captcha
+go_import_path: github.com/fighthorse/captcha
 go:
   - 1.7
 services:

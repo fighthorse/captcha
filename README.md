@@ -3,7 +3,7 @@
 [![Build][build-status-image]][build-status-url] [![Codecov][codecov-image]][codecov-url] [![ReportCard][reportcard-image]][reportcard-url] [![GoDoc][godoc-image]][godoc-url] [![License][license-image]][license-url]
 
 ```
-import "github.com/LyricTian/captcha"
+import "github.com/fighthorse/captcha"
 ```
 
 Package captcha implements generation and verification of image and audio
@@ -50,9 +50,9 @@ take a look at the example in "capexample" subdirectory.
 
 ## Examples
 
-![Image](https://github.com/LyricTian/captcha/raw/master/capgen/example.png)
+![Image](https://github.com/fighthorse/captcha/raw/master/capgen/example.png)
 
-[Audio](https://github.com/LyricTian/captcha/raw/master/capgen/example.wav)
+[Audio](https://github.com/fighthorse/captcha/raw/master/capgen/example.wav)
 
 ## Constants
 
@@ -282,9 +282,9 @@ store must be registered with SetCustomStore to replace the default one.
 [build-status-image]: https://travis-ci.org/LyricTian/captcha.svg?branch=master
 [codecov-url]: https://codecov.io/gh/LyricTian/captcha
 [codecov-image]: https://codecov.io/gh/LyricTian/captcha/branch/master/graph/badge.svg
-[reportcard-url]: https://goreportcard.com/report/github.com/LyricTian/captcha
-[reportcard-image]: https://goreportcard.com/badge/github.com/LyricTian/captcha
-[godoc-url]: https://godoc.org/github.com/LyricTian/captcha
-[godoc-image]: https://godoc.org/github.com/LyricTian/captcha?status.svg
+[reportcard-url]: https://goreportcard.com/report/github.com/fighthorse/captcha
+[reportcard-image]: https://goreportcard.com/badge/github.com/fighthorse/captcha
+[godoc-url]: https://godoc.org/github.com/fighthorse/captcha
+[godoc-image]: https://godoc.org/github.com/fighthorse/captcha?status.svg
 [license-url]: http://opensource.org/licenses/MIT
 [license-image]: https://img.shields.io/npm/l/express.svg
